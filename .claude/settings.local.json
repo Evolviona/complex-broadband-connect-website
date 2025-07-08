@@ -12,7 +12,8 @@
       "Bash(pnpm install:*)",
       "Bash(git push:*)",
       "Bash(find:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(ls:*)"
     ],
     "deny": []
   }
