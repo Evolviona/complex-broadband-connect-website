@@ -7,7 +7,12 @@
       "Bash(mkdir:*)",
       "Bash(npm run build:*)",
       "Bash(git add:*)",
-      "Bash(git rebase:*)"
+      "Bash(git rebase:*)",
+      "Bash(pnpm lint:*)",
+      "Bash(pnpm install:*)",
+      "Bash(git push:*)",
+      "Bash(find:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
