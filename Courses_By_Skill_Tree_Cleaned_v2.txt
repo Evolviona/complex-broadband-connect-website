@@ -1,0 +1,654 @@
+Sections:
+
+Courses: 
+
+Page name: Cert III in Telecommunications Technology
+
+Individual Student Out of Pocket funded :
+$4000 16 Modules 
+
+Course Duration:
+
+24 Months
+
+Qualification Description
+
+The Certificate III in Telecommunications Technology is designed for telecommunications technology operators involved in installation, fault-finding, and testing of telecommunications systems and equipment. This qualification prepares individuals to assess installation needs, perform installations, and troubleshoot networks across various telecommunications environments, including customer cabling networks, digital reception technology, optical and wireless networks, and radio communications.
+
+Career Outcomes:
+
+Graduates may work in roles involving:
+
+Customer premises cabling networks
+
+Digital reception and optical networks
+
+Radio communications
+
+Telecommunications networking and rigging
+(Note: Some roles may require high-risk work licensing for dogging and rigging.)
+
+Course Structure
+
+Total Units Required:
+
+16 units (6 core units + 10 elective units)
+
+Core Units (6 Units)
+
+ICTTEN202 – Use hand and power tools
+
+ICTTEN208 – Use electrical skills when working with telecommunications networks
+
+ICTTEN315 – Determine and apply technologies within a telecommunications system
+
+ICTTEN317 – Locate, identify and rectify telecommunications network faults
+
+ICTWHS204 – Follow work health and safety and environmental policy and procedures
+
+ICTWOR308 – Provide customer service to telecommunications customers
+
+Elective Units (10 Units)
+
+Electives are selected to align with career goals and cover practical skills in telecommunications cabling, optical networks, and infrastructure. This selection includes:
+
+Group C: Telecommunications Cabling
+
+ICTCBL247 – Install, maintain and modify customer premises communications cabling: ACMA Open Rule
+
+ICTCBL322 – Install, test and terminate optical fibre cable on customer premises
+
+ICTCBL301 – Install, terminate and certify structured cabling installation
+
+ICTCBL303 – Install and terminate coaxial cabling
+
+ICTCBL333 Install aerial cable for communications applications
+
+Group F: Optical Networks
+
+ICTTEN318 – Inspect, clean and handle optical fibre cable and connectors
+
+ICTCBL330 – Splice and terminate optical fibre cable for telecommunications projects
+
+Group A: Workplace Technical Practice
+
+ICTCBL329 – Install underground cable for communications applications
+
+ICTCBL253 – Construct underground telecommunications infrastructure
+
+ICTCBL334 – Install underground enclosures and conduit
+
+Note: The selected elective units can be adjusted based on the specific needs of the apprentice or client to better align with their career goals and job requirements.
+
+Note: FOR EMPLOYER NOT APPRENTICE
+
+Learning Outcomes
+
+Upon completing this qualification, students will be able to:
+
+Install and maintain telecommunications cabling: Perform compliant installations and modifications of structured, coaxial, and optical fibre cabling systems.
+
+Troubleshoot and resolve network faults: Use diagnostic tools and practical techniques to identify and rectify network issues across telecommunications networks.
+
+Ensure workplace and environmental safety: Follow WHS regulations and safe work practices specific to telecommunications environments.
+
+Provide customer service and technical support: Address customer needs effectively and provide training on new technology as needed.
+
+Construct and install infrastructure: Build secure underground and aerial support systems for telecommunications cabling, ensuring compliance with ACMA and industry standards.
+
+Delivery & Assessment
+
+Delivery Mode:
+
+Hands-on training conducted either at the student’s workplace or at Broadband Connect’s training facility, providing practical, real-world experience.
+
+Assessment Methods:
+
+Competency is assessed through practical tasks, projects, and hands-on exercises, ensuring students are prepared for work in telecommunications environments.
+
+Courses By skill tree:
+
+Course: Open Cabler Registration | Price: $650
+
+Course Description:
+
+The Open Cabler Registration course provides essential training for working safely and effectively with customer premises cabling installations. Covering both ACMA Restricted and Open Rules, this course equips learners with the practical skills and technical knowledge needed to comply with industry standards and licensing requirements.
+
+Course Information:
+
+This course prepares participants for the ACMA Open Cabler Registration, focusing on compliant and secure installation techniques for customer premises cabling. Through hands-on exercises and real-world scenarios, students develop the skills needed to handle all aspects of cabling within a customer environment.
+
+Terminate and connect cables across sockets within customer premises
+
+Understand and apply the ACMA cabling licence requirements
+
+Interpret and adhere to ACMA mandatory technical standards
+
+Install backbone cabling and facility cabling to ensure connectivity throughout premises
+
+Comprehend the composition and layout of a Telephone Cabling System
+
+Identify the need for a Telecommunications Reference Conductor and apply correct equipment bonding methods per ACMA standards
+
+Maintain, modify, and accurately update cabling records
+
+Conduct pre-handover testing of Telephone Cabling Systems to verify installation quality
+
+Course Outcome:
+
+ICTWHS204 – Follow work health and safety and environmental policy and procedures
+
+ICTCBL246 – Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule
+
+ICTCBL247 – Install, maintain and modify customer premises communications cabling: ACMA Open Rule
+
+Course: Optical Fibre Cabling | nbn™ Skill 33 & 9 | Price: $400
+
+Course Description:
+
+This course is designed to meet the requirements for nbn™ Skill 33 & 9, providing immersive, practical training in optical fibre installation, testing, and maintenance. Students work directly with industry-grade tools and equipment, ensuring they are ready for real-world telecommunications roles that require advanced fibre optic skills.
+
+Course Information: 
+
+The Optical Fibre Cabling course gives learners in-depth, practical knowledge to work confidently in optical telecommunications environments. From splicing to compliance testing, this course covers essential skills that are immediately applicable in the field. Understanding optical fibre cable types
+
+Key factors affecting light propagation
+
+Assessing and optimizing optical fibre performance
+
+Familiarity with optical fibre products
+
+Mastery of installation techniques
+
+Conducting compliance testing for reliability
+
+Ensuring safety and proper handling practices
+
+Professional fibre termination skills
+
+Course Outcome:
+
+ICTCBL322 - Install, test and terminate optical fibre cable on customer premises
+
+ICTTEN318 - Inspect, clean and handle optical fibre cable and connectors
+
+Course: Pit & Pipe Installation (ACMA Underground Endorsement) | Price: $450
+
+Course Description:
+
+This Pit & Pipe Installation course provides intensive, hands-on training in underground cable installation and infrastructure construction for telecommunications, aligned with the ACMA Underground Endorsement. Students gain direct experience with industry-standard tools and techniques, preparing them for practical applications in the field.
+
+Course Information:
+
+The Pit & Pipe Installation course immerses learners in the essential skills and knowledge required for underground telecommunications infrastructure. Through real-world, hands-on training, participants will master safe and effective installation techniques to ensure high-quality, compliant work in diverse environments.
+
+Safe worksite setup and management
+
+Introduction to identifying and working around other underground assets
+
+Understanding different types of pits and conduit for telecommunications
+
+Installation techniques for pits and conduits to industry standards
+
+Pit remediation practices for durability and compliance
+
+Setting up cable dispensers for efficient installation
+
+In-field exercises to reinforce practical skills
+
+Course Outcome:
+
+ICTCBL329 - Install underground cable for communications applications
+
+ICTCBL253 - Construct underground telecommunications infrastructure
+
+ICTCBL334 - Install underground enclosures and conduit
+
+Course: Fibre to the Curb (FTTC) Technician | nbn™ Skills 1, 2, 3, and 5 | Price: $975
+
+Course Description:
+
+The Fibre to the Curb (FTTC) Technician course delivers practical training in FTTC installations, troubleshooting, and maintenance, providing technicians with the expertise to ensure network reliability. This course emphasizes hands-on skills to master cable installations, joint enclosures, and systematic fault-finding techniques, preparing students for effective fieldwork in telecommunications.
+
+Course Information:
+
+The FTTC Technician course covers essential FTTC network skills, focusing on practical techniques and diagnostic tools. Training encompasses the preparation, testing, and maintenance of FTTC systems to uphold high network performance standards.
+
+Safe work practices for the FTTC environment, with a focus on health and environmental safety
+
+Detailed cable recognition, colour coding, and appropriate usage across network elements
+
+Best practices for preparing and sealing conductor joints to maintain network integrity
+
+Planning and preparing enclosures, joint installations, and maintenance joints
+
+Configuring and managing termination facilities, including sockets, distribution frames, wall enclosures, and CCU terminations
+
+Testing techniques, including continuity checks and systematic fault identification
+
+Basics of network power sources and proper cabinet preparation for FTTC
+
+Reading network plans and documenting cable and jumpering records accurately
+
+Utilizing Ohm’s Law and impedance calculations for diagnosing AC-related faults
+
+Understanding the behavior of faulty network components and identifying root causes
+
+Using industry-standard testing equipment for network performance analysis
+
+Logical, step-by-step fault-finding methods to optimize network quality and longevity
+
+Course Outcome:
+
+ICTCBL254 - Joint metallic conductor cable in access network | Price: $325
+
+ICTTEN313 - Work on and resolve recurrent network faults | Price: $325
+
+ICTCBL320 -Jumper metallic conductor cable in the access network|Price: $325
+
+Module 1: Copper Jointing – Basic | nbn™ Skills 2 | 3
+
+Unit Code: ICTCBL254 - Joint Metallic Conductor Cable in Access Network
+
+Cost: $325
+
+Gain fundamental skills for preparing and joining metallic conductor cables in access networks. This module emphasizes practical techniques to create secure and compliant cable joints that ensure robust network performance.
+
+Key Learning Outcomes:
+
+Techniques for preparing metallic conductor cables for jointing.
+
+Creating reliable, durable cable joints with minimal signal loss.
+
+Adhering to ACMA and nbn™ requirements for copper cabling.
+
+Module 2: Fault Finding Access Network | nbn™ Skill 5
+
+Unit Code: ICTTEN313 - Work on and Resolve Recurrent Network Faults
+
+Cost: $325
+
+Develop advanced troubleshooting skills to identify, analyze, and resolve recurring faults in telecommunications networks. This module focuses on diagnostic methodologies and the use of industry-standard tools to restore and enhance network reliability.
+
+Key Learning Outcomes:
+
+Comprehensive fault analysis and root cause identification.
+
+Systematic use of diagnostic tools for efficient fault resolution.
+
+Implementing preventive measures to minimize future network failures.
+
+Module 3: Jumper Metallic Conductor Cable in Access Network | nbn™ Skill 1
+
+Unit Code: ICTCBL320 - Jumper Metallic Conductor Cable in the Access Network
+
+Cost: $325
+
+Master the techniques for managing and jumpering metallic conductor cables in FTTC environments. Learn practical methods for cable identification, termination, and record-keeping to ensure compliance and optimal network performance.
+
+Key Learning Outcomes:
+
+Accurate cable identification and color coding for effective jumpering.
+
+Best practices for maintaining network integrity through precise connections.
+
+Reading network plans and documenting cable installations and updates.
+
+Course: Optical Fibre Jointing and Splicing | nbn™ Skill 13 | Price: $ 650
+
+Course Description:
+
+This Optical Fibre Jointing and Splicing course provides hands-on training in splicing and terminating optical fibre cables for telecommunications projects, aligning with nbn™ Skill 13 standards. Through practical exercises, students gain the essential skills needed to prepare, splice, and test optical fibres using industry-grade tools and techniques.
+
+Course Information:
+
+The Optical Fibre Jointing and Splicing course immerses learners in the techniques and standards required for successful fibre jointing in telecommunications. With a focus on field-ready applications, this course covers every step from fibre preparation to transmission testing, preparing students for the demands of modern fibre optic installations.
+
+Understanding optical fibre properties, construction, and transmission
+
+Proper handling and housing of optical fibre cables in manholes and pits
+
+Cable and fibre preparation techniques
+
+Optical fibre preparation for splicing and termination
+
+Installation and use of field-located fibre closures
+
+Working with optical fibre distribution frames
+
+Performing precise fibre splicing for secure connections
+
+Conducting transmission testing to ensure quality and compliance
+
+Course Outcome:
+
+ICTCBL330 – Splice and terminate optical fibre cable for telecommunications projects
+
+Course: Structured Cabling | Price: $ 375
+
+Course Description:
+
+This Structured Cabling course offers intensive, hands-on training in the installation, termination, and certification of structured cabling systems. Aligned with industry standards, this course prepares learners to work confidently in telecommunications environments, ensuring high-quality installations using professional-grade tools and techniques.
+
+Course Information:
+
+The Structured Cabling course immerses learners in the essentials of telecommunications installations, combining theory with practical exercises to ensure competency in real-world settings. This course covers key aspects of structured cabling for integrated voice and data systems, with a strong focus on quality and reliability.
+
+Understanding structured cabling standards for voice and data integration
+
+Telecommunications installation practices
+
+Basics of transmission theory and key terminology
+
+Planning and utilizing pathways and spaces for cabling
+
+Familiarity with data cabling products and applications
+
+Hands-on installation and termination techniques
+
+Field testing of cabling for compliance and performance
+
+Practical exercises for skill-building in balanced cabling installations
+
+Course Outcome:
+
+ICTCBL301 - Install, terminate and certify structured cabling installation
+
+Course: Coaxial Cabling | Price: $ 200
+
+Course Description:
+
+This Coaxial Cabling course provides practical, hands-on training in installing and terminating coaxial cables within customer premises. Designed to prepare learners for real-world applications, this course ensures participants are equipped with essential skills to meet industry standards using professional-grade tools and techniques.
+
+Course Information:
+
+The Coaxial Cabling course immerses students in the foundational skills required for effective coaxial cable installation and termination in telecommunications. With a focus on both theory and applied practice, this course readies learners for immediate work in the field.
+
+Understanding connectors and their applications in coaxial systems
+
+Techniques for proper coaxial cable installation
+
+Overview of coaxial cable systems and their various uses
+
+Conducting transmission testing to ensure performance
+
+Hands-on practical exercises for skill refinement
+
+Course Outcome:
+
+ICTCBL303 – Install and terminate coaxial cabling
+
+Course: Aerial Cabling (ACMA Aerial Endorsement) | Price: $ 250
+
+Course Description:
+
+This Aerial Cabling course, designed for the ACMA Aerial Endorsement, delivers immersive, practical training for installing and supporting aerial communication cables. Through direct use of industry-standard tools, learners build the essential skills needed to construct reliable aerial cable supports and manage installations in diverse environments.
+
+Course Information:
+
+The Aerial Cabling course equips learners with practical, field-ready skills for aerial cable installation and support in telecommunications applications. Covering everything from site preparation to cable security, the course provides a hands-on approach to mastering aerial cabling techniques.
+
+Preparing sites for aerial cable support construction
+
+Installing support structures with pole and wall support
+
+Planning and executing aerial cable installations
+
+Attaching cables to catenary support systems
+
+Installing self-supporting aerial cable
+
+Ensuring secure sealing and stability of aerial cables
+
+Course Outcome:
+
+ICTCBL333 – Install aerial cable for communications applications
+
+ICTCBL335 – Construct aerial cable supports
+
+Course: Optical Fibre Hygiene | nbn™ Skill 9 | Price: $ 150
+
+Course Description:
+
+The Optical Fibre Hygiene course offers hands-on training in the essential practices of inspecting, cleaning, and handling optical fibre cables and connectors, in line with nbn™ Skill 9 requirements. This course prepares students to uphold the highest standards of fibre hygiene and safety, using industry-approved tools and methods to ensure optimal network performance.
+
+Course Information:
+
+The Optical Fibre Hygiene course equips learners with fundamental skills for maintaining cleanliness and safety in fibre optic environments. Through practical exercises and specialized equipment, students develop the expertise needed to ensure reliable fibre installations and connections.
+
+Fibre basics, including core safety practices and handling
+
+Identifying cable and connector types for proper handling
+
+Techniques for inspecting and cleaning fibre connectors
+
+Course Outcome:
+
+ICTTEN318 - Inspect, clean and handle optical fibre cable and connectors
+
+ICT30419 Certificate III in Telecommunications Network Build and Operation
+
+Course Overview
+
+The ICT30419 Certificate III in Telecommunications Network Build and Operation is your gateway to a career in the dynamic telecommunications industry. This qualification focuses on the essential skills required to build, operate, and maintain modern telecommunications networks, including Fibre to the Node (FTTN), Fibre to the Curb (FTTC), Fibre to the Premises (FTTP), and Hybrid Fibre Coaxial (HFC). Gain hands-on experience with industry-standard tools and equipment to tackle real-world challenges in telecommunications infrastructure.
+
+Career Opportunities
+
+Graduates of this program can pursue careers as:
+
+Telecommunications network technicians.
+
+Cabling installers for underground and aerial infrastructure.
+
+Network fault diagnostic specialists.
+
+Copper and optical fibre cabling experts.
+
+This qualification positions you to work on a range of network types, including high-demand roles supporting the nbn™.
+
+Course Delivery
+
+Duration: Flexible completion between 12 and 24 months.
+
+Mode of Study: Interactive face-to-face training combined with online resources to enhance learning flexibility.
+
+Locations: Training is delivered at state-of-the-art facilities and partnered venues across Australia.
+
+Start Dates: Ongoing enrolment options, allowing you to begin your studies at a time that suits your schedule.
+
+Entry Requirements
+
+Applicants must complete a pre-training Language, Literacy, and Numeracy (LLN) assessment.
+
+A basic level of physical fitness and good hand-eye coordination are recommended for practical activities.
+
+Notify us if you experience colour vision challenges to discuss potential solutions or modifications.
+
+Course Structure
+
+The qualification includes 14 units of competency, comprising 6 core units and 8 elective units. Electives are selected to align with current industry requirements and your career goals.
+
+Core Units
+
+ICTWHS204 – Follow work health and safety and environmental policy and procedures.
+
+ICTTEN208 – Use electrical skills when working with telecommunications networks.
+
+ICTTEN202 – Use hand and power tools.
+
+ICTTEN317 – Locate, identify, and rectify telecommunications network faults.
+
+ICTWOR308 – Provide customer service to telecommunications customers.
+
+ICTTEN315 – Determine and apply technologies within a telecommunications system.
+
+Elective Units
+
+Electives offer flexibility and can be tailored to specific skill areas:
+
+ICTCBL247 – Install, maintain and modify customer premises communications cabling: ACMA Open Rule.
+
+ICTCBL254 – Joint metallic conductor cable in the access network.
+
+ICTCBL320 – Jumper metallic conductor cable in the access network.
+
+ICTCBL329 – Install underground cable for communications applications.
+
+ICTCBL334 – Install underground enclosures and conduit.
+
+ICTCBL326 – Cut over metallic conductor cable in the access network.
+
+ICTCBL306 – Locate and identify cable system faults.
+
+ICTCBL332 – Locate, identify and rectify copper cable faults.
+
+Investment
+
+Course Fee: $4,000 (GST exempt).
+
+Payment options available, including installment plans.
+
+Certification
+
+Upon successful completion, students will receive the ICT30419 Certificate III in Telecommunications Network Build and Operation, a nationally recognized qualification under the Australian Qualifications Framework (AQF).
+
+COMING SOON:
+
+CPCCDE3014 Remove non-friable asbestos
+
+RIIWHS205E Control traffic with stop-slow bat
+
+RIIWHS202E Enter and work in confined spaces
+
+RIIWHS204E Work safely at heights
+
+MSMWHS217 Gas test atmospheres
+
+Page name: Cabling External and Internal
+
+Open Cabling License
+
+Optical Fiber
+
+Optical Fibre Cabling
+
+Fiber Splice
+
+Fiber Hygiene 
+
+Copper
+
+Fibre to the Curb – FTTC Technician
+
+Fault Finding Access Network | nbn skill 5
+
+Copper Jointing – Basic | nbn skills 2 | 3
+ Jumper metallic conductor cable in the access network | nbn skill 1
+
+Pit & Pipe Installation (ACMA Underground Endorsement)
+
+Structured Cabling
+
+Coaxial Cabling
+
+Aerial Cabling (ACMA Aerial Endorsement)
+
+Page name: RPL = Recognised prior learning
+
+Recognition of Prior Learning (RPL)
+
+What is RPL?
+
+Recognition of Prior Learning (RPL) is a formal assessment process that evaluates an individual’s existing skills, knowledge, and experience, regardless of how they were acquired. This assessment allows students to obtain credit towards qualifications without needing to retrain in areas they are already competent in. RPL may recognize skills gained through formal education, work experience, volunteer roles, community involvement, or other life experiences.
+
+At Broadband Connect, our experienced RTO assessors use industry standards to verify and certify your competencies, allowing you to fast-track your qualifications in telecommunications and related fields.
+
+Why Choose RPL?
+
+RPL offers a streamlined path to qualifications by:
+
+Reducing study time by focusing only on areas where additional learning is needed.
+
+Recognizing and validating the skills you have already acquired in your career.
+
+Enabling you to meet industry requirements efficiently and move forward in your career.
+
+Our RPL Process
+
+The RPL process at Broadband Connect is designed to be straightforward and supportive, with flexible options for assessments conducted online, at our head office, or at your workplace. Our assessors, who are qualified and experienced, guide you through each step to make the process as efficient as possible.
+
+RPL Process Steps:
+
+Initial Enquiry
+
+Contact Broadband Connect to express interest in RPL. Our team will provide an overview of the process and answer any questions.
+
+Preliminary Phone Consultation
+
+A Broadband Connect representative will discuss your prior licenses, experience, and qualifications to assess your eligibility and determine the appropriate pathway.
+
+Enrolment Pack Completion
+
+You will receive an enrolment pack via email, which includes forms to complete, as well as guidance on gathering necessary evidence.
+
+Submit Evidence
+
+Submit the completed enrolment pack along with any pictorial and documentary evidence, either by email or post.
+
+RPL Assessment Scheduling
+
+An assessor will contact you to schedule your assessment, which may take place at Broadband Connect’s head office, your workplace, or via video call if necessary.
+
+USI Number Requirement
+
+Ensure you have a Unique Student Identifier (USI), which is mandatory for all training purposes. (More information can be found at www.usi.gov.au.)
+
+Competency Assessment
+
+After reviewing your evidence, the assessor will determine if you are "Competent" or "Not Competent."
+
+Outcome
+
+If Competent: You will be issued a Statement of Attainment or qualification.
+
+If Not Competent: A training plan will be developed to help you gain the required skills and knowledge for successful completion.
+
+Forms of Evidence Required
+
+To validate your skills and experience, you will need to provide a variety of evidence, including but not limited to:
+
+Work records – documents showing your job roles and responsibilities.
+
+Records of workplace training – any in-house training you’ve received.
+
+Skills assessments – evaluations of your current skills and abilities.
+
+Knowledge assessments – evaluations of your understanding in relevant areas.
+
+Third-party reports – statements from supervisors or managers verifying your experience.
+
+Volunteer experience – evidence of relevant unpaid or volunteer work.
+
+Pictorial evidence – photos or videos showing work you have completed.
+
+Portfolio of work – samples or portfolios of relevant work or projects.
+
+On-site observations – observations conducted by an assessor in your workplace.
+
+Performance appraisals – copies of recent performance evaluations.
+
+Duty statements – official descriptions of your job duties and responsibilities.
+
+RPL Pathway Benefits
+
+Personalized Training Plan: If you do not meet the required competencies, we will work with you to create a targeted training plan to help bridge any gaps.
+
+Flexible Assessment Locations: RPL assessments can be completed online, at our head office, or on-site at your workplace, providing convenience and flexibility.
+
+Fast-track Qualifications: Successfully demonstrating competence can reduce your study load, allowing you to gain qualifications sooner and advance your career.
+
+Get Started with RPL
+
+RPL can be a great way to leverage your experience and gain recognized qualifications in telecommunications. If you believe you meet the requirements, reach out to Broadband Connect today to discuss your eligibility and begin your RPL journey.
+[Apply Now for RPL]
+

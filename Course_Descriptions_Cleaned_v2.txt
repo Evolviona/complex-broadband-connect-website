@@ -1,0 +1,166 @@
+Course: Optical Fibre Cabling | nbn™ Skill 33 & 9
+Course Description:
+This course is designed to meet the requirements for nbn™ Skill 33 & 9, providing immersive, practical training in optical fibre installation, testing, and maintenance. Students work directly with industry-grade tools and equipment, ensuring they are ready for real-world telecommunications roles that require advanced fibre optic skills.
+Course Information: 
+The Optical Fibre Cabling course gives learners in-depth, practical knowledge to work confidently in optical telecommunications environments. From splicing to compliance testing, this course covers essential skills that are immediately applicable in the field.
+Understanding optical fibre cable types
+Key factors affecting light propagation
+Assessing and optimizing optical fibre performance
+Familiarity with optical fibre products
+Mastery of installation techniques
+Conducting compliance testing for reliability
+Ensuring safety and proper handling practices
+Professional fibre termination skills
+Course Outcome:
+ICTCBL322 - Install, test and terminate optical fibre cable on customer premises
+ICTTEN318 - Inspect, clean and handle optical fibre cable and connectors
+
+Course: Aerial Cabling (ACMA Aerial Endorsement)
+Course Description:
+This Aerial Cabling course, designed for the ACMA Aerial Endorsement, delivers immersive, practical training for installing and supporting aerial communication cables. Through direct use of industry-standard tools, learners build the essential skills needed to construct reliable aerial cable supports and manage installations in diverse environments.
+Course Information:
+The Aerial Cabling course equips learners with practical, field-ready skills for aerial cable installation and support in telecommunications applications. Covering everything from site preparation to cable security, the course provides a hands-on approach to mastering aerial cabling techniques.
+Preparing sites for aerial cable support construction
+Installing support structures with pole and wall support
+Planning and executing aerial cable installations
+Attaching cables to catenary support systems
+Installing self-supporting aerial cable
+Ensuring secure sealing and stability of aerial cables
+Course Outcome:
+ICTCBL333 – Install aerial cable for communications applications
+ICTCBL335 – Construct aerial cable supports
+
+Course: Structured Cabling
+Course Description:
+This Structured Cabling course offers intensive, hands-on training in the installation, termination, and certification of structured cabling systems. Aligned with industry standards, this course prepares learners to work confidently in telecommunications environments, ensuring high-quality installations using professional-grade tools and techniques.
+Course Information:
+The Structured Cabling course immerses learners in the essentials of telecommunications installations, combining theory with practical exercises to ensure competency in real-world settings. This course covers key aspects of structured cabling for integrated voice and data systems, with a strong focus on quality and reliability.
+Understanding structured cabling standards for voice and data integration
+Telecommunications installation practices
+Basics of transmission theory and key terminology
+Planning and utilizing pathways and spaces for cabling
+Familiarity with data cabling products and applications
+Hands-on installation and termination techniques
+Field testing of cabling for compliance and performance
+Practical exercises for skill-building in balanced cabling installations
+Course Outcome:
+ICTCBL301 - Install, terminate and certify structured cabling installation
+
+Course: Coaxial Cabling
+Course Description:
+This Coaxial Cabling course provides practical, hands-on training in installing and terminating coaxial cables within customer premises. Designed to prepare learners for real-world applications, this course ensures participants are equipped with essential skills to meet industry standards using professional-grade tools and techniques.
+Course Information:
+The Coaxial Cabling course immerses students in the foundational skills required for effective coaxial cable installation and termination in telecommunications. With a focus on both theory and applied practice, this course readies learners for immediate work in the field.
+Understanding connectors and their applications in coaxial systems
+Techniques for proper coaxial cable installation
+Overview of coaxial cable systems and their various uses
+Conducting transmission testing to ensure performance
+Hands-on practical exercises for skill refinement
+Course Outcome:
+ICTCBL303 – Install and terminate coaxial cabling
+
+Course: Pit & Pipe Installation (ACMA Underground Endorsement)
+Course Description:
+This Pit & Pipe Installation course provides intensive, hands-on training in underground cable installation and infrastructure construction for telecommunications, aligned with the ACMA Underground Endorsement. Students gain direct experience with industry-standard tools and techniques, preparing them for practical applications in the field.
+Course Information:
+The Pit & Pipe Installation course immerses learners in the essential skills and knowledge required for underground telecommunications infrastructure. Through real-world, hands-on training, participants will master safe and effective installation techniques to ensure high-quality, compliant work in diverse environments.
+Safe worksite setup and management
+Introduction to identifying and working around other underground assets
+Understanding different types of pits and conduit for telecommunications
+Installation techniques for pits and conduits to industry standards
+Pit remediation practices for durability and compliance
+Setting up cable dispensers for efficient installation
+In-field exercises to reinforce practical skills
+Course Outcome:
+ICTCBL329 - Install underground cable for communications applications
+ICTCBL253 - Construct underground telecommunications infrastructure
+ICTCBL334 - Install underground enclosures and conduit
+
+Course: Optical Fibre Jointing and Splicing | nbn™ Skill 13
+Course Description:
+This Optical Fibre Jointing and Splicing course provides hands-on training in splicing and terminating optical fibre cables for telecommunications projects, aligning with nbn™ Skill 13 standards. Through practical exercises, students gain the essential skills needed to prepare, splice, and test optical fibres using industry-grade tools and techniques.
+Course Information:
+The Optical Fibre Jointing and Splicing course immerses learners in the techniques and standards required for successful fibre jointing in telecommunications. With a focus on field-ready applications, this course covers every step from fibre preparation to transmission testing, preparing students for the demands of modern fibre optic installations.
+Understanding optical fibre properties, construction, and transmission
+Proper handling and housing of optical fibre cables in manholes and pits
+Cable and fibre preparation techniques
+Optical fibre preparation for splicing and termination
+Installation and use of field-located fibre closures
+Working with optical fibre distribution frames
+Performing precise fibre splicing for secure connections
+Conducting transmission testing to ensure quality and compliance
+Course Outcome:
+ICTCBL330 – Splice and terminate optical fibre cable for telecommunications projects
+
+Course: Optical Fibre Hygiene | nbn™ Skill 9
+Course Description:
+The Optical Fibre Hygiene course offers hands-on training in the essential practices of inspecting, cleaning, and handling optical fibre cables and connectors, in line with nbn™ Skill 9 requirements. This course prepares students to uphold the highest standards of fibre hygiene and safety, using industry-approved tools and methods to ensure optimal network performance.
+Course Information:
+The Optical Fibre Hygiene course equips learners with fundamental skills for maintaining cleanliness and safety in fibre optic environments. Through practical exercises and specialized equipment, students develop the expertise needed to ensure reliable fibre installations and connections.
+Fibre basics, including core safety practices and handling
+Identifying cable and connector types for proper handling
+Techniques for inspecting and cleaning fibre connectors
+Course Outcome:
+ICTTEN318 - Inspect, clean and handle optical fibre cable and connectors
+
+Course: Fibre to the Curb – FTTC Technician OR COPPER
+Course Description:
+The Fibre to the Curb (FTTC) Technician course delivers practical training in FTTC installations, troubleshooting, and maintenance, providing technicians with the expertise to ensure network reliability. This course emphasizes hands-on skills to master cable installations, joint enclosures, and systematic fault-finding techniques, preparing students for effective fieldwork in telecommunications.
+Course Information:
+The FTTC Technician course covers essential FTTC network skills, focusing on practical techniques and diagnostic tools. Training encompasses the preparation, testing, and maintenance of FTTC systems to uphold high network performance standards.
+Safe work practices for the FTTC environment, with a focus on health and environmental safety
+Detailed cable recognition, colour coding, and appropriate usage across network elements
+Best practices for preparing and sealing conductor joints to maintain network integrity
+Planning and preparing enclosures, joint installations, and maintenance joints
+Configuring and managing termination facilities, including sockets, distribution frames, wall enclosures, and CCU terminations
+Testing techniques, including continuity checks and systematic fault identification
+Basics of network power sources and proper cabinet preparation for FTTC
+Reading network plans and documenting cable and jumpering records accurately
+Utilizing Ohm’s Law and impedance calculations for diagnosing AC-related faults
+Understanding the behavior of faulty network components and identifying root causes
+Using industry-standard testing equipment for network performance analysis
+Logical, step-by-step fault-finding methods to optimize network quality and longevity
+Course Outcome:
+ICTCBL254 - Joint metallic conductor cable in access network
+ICTTEN313 - Work on and resolve recurrent network faults
+ICTCBL320 - Jumper metallic conductor cable in the access network
+
+Course: Open Cabler Registration
+Course Description:
+The Open Cabler Registration course provides essential training for working safely and effectively with customer premises cabling installations. Covering both ACMA Restricted and Open Rules, this course equips learners with the practical skills and technical knowledge needed to comply with industry standards and licensing requirements.
+Course Information:
+This course prepares participants for the ACMA Open Cabler Registration, focusing on compliant and secure installation techniques for customer premises cabling. Through hands-on exercises and real-world scenarios, students develop the skills needed to handle all aspects of cabling within a customer environment.
+Terminate and connect cables across sockets within customer premises
+Understand and apply the ACMA cabling licence requirements
+Interpret and adhere to ACMA mandatory technical standards
+Install backbone cabling and facility cabling to ensure connectivity throughout premises
+Comprehend the composition and layout of a Telephone Cabling System
+Identify the need for a Telecommunications Reference Conductor and apply correct equipment bonding methods per ACMA standards
+Maintain, modify, and accurately update cabling records
+Conduct pre-handover testing of Telephone Cabling Systems to verify installation quality
+Course Outcome:
+ICTWHS204 – Follow work health and safety and environmental policy and procedures
+ICTCBL246 – Install, maintain and modify customer premises communications cabling: ACMA Restricted Rule
+ICTCBL247 – Install, maintain and modify customer premises communications cabling: ACMA Open Rule
+
+COMING SOON:
+
+CPCCDE3014 Remove non-friable asbestos
+RIIWHS205E Control traffic with stop-slow bat
+RIIWHS202E Enter and work in confined spaces
+RIIWHS204E Work safely at heights
+
+NBN Skill Section: 
+
+SKILL TREE:
+
+Open Cabling License 1st as a base to get ENDORSEMENT on
+
+Clients usually get 
+
+Optical Fiber Endorsement 2nd 
+
+Underground & Pit and Pipe 3rd
+
+FTTC or Copper 4th
+

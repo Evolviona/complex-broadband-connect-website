@@ -1,0 +1,245 @@
+@import "tailwindcss";
+
+/* Optimized Font Loading */
+@font-face {
+  font-family: 'Audiowide';
+  font-display: swap;
+  src: local('Audiowide'),
+       url('https://fonts.googleapis.com/css2?family=Audiowide:wght@400&display=swap');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Quicksand';
+  font-display: swap;
+  src: local('Quicksand'),
+       url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+  font-weight: 300 700;
+  font-style: normal;
+}
+
+/* CSS Custom Properties */
+:root {
+  --primary-color: #0B8FE5;
+  --primary-dark: #37356A;
+  --secondary-color: #FB8686;
+  --secondary-dark: #8B0000;
+  --background-light: #f5eee5;
+  --background-dark: #1C1C1C;
+  
+  --background: var(--background-light);
+  --foreground: #171717;
+  --text-primary: #1f2937;
+  --text-secondary: #6b7280;
+  
+  /* Glass effect variables */
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: var(--background-dark);
+    --foreground: #ededed;
+    --text-primary: #f9fafb;
+    --text-secondary: #d1d5db;
+    
+    /* Dark mode glass effects */
+    --glass-bg: rgba(17, 25, 40, 0.25);
+    --glass-border: rgba(255, 255, 255, 0.05);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  }
+}
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Quicksand', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Critical CSS for above-fold content */
+.hero-container {
+  min-height: 100vh;
+  contain: layout style paint;
+}
+
+/* Glass morphism utility classes */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+.glass-nav {
+  background: var(--glass-bg);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-bottom: 1px solid var(--glass-border);
+}
+
+/* Animation performance optimizations */
+.hero-headline,
+.hero-subheadline,
+.hero-cta-primary,
+.hero-cta-secondary,
+.hero-badges {
+  animation: fadeUp 0.6s ease-out;
+  animation-fill-mode: both;
+}
+
+/* Wave animations using CSS only */
+.wave {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 120px;
+  fill: var(--primary-color);
+  opacity: 0.1;
+  animation: wave 8s ease-in-out infinite;
+}
+
+.wave:nth-child(2) {
+  animation-delay: -2s;
+  opacity: 0.15;
+}
+
+.wave:nth-child(3) {
+  animation-delay: -4s;
+  opacity: 0.2;
+}
+
+/* Circuit path animations */
+.circuit-path {
+  stroke: var(--primary-color);
+  stroke-width: 2;
+  fill: none;
+  filter: drop-shadow(0 0 5px var(--primary-color));
+  animation: drawCircuit 2s ease-out forwards;
+}
+
+/* Reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  
+  .circuit-path {
+    stroke-dashoffset: 0 !important;
+    animation: none;
+  }
+  
+  .wave {
+    animation: none;
+  }
+}
+
+/* Focus visible for accessibility */
+.focus-visible {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+/* Skip link for accessibility */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background: var(--primary-color);
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  border-radius: 4px;
+  z-index: 1000;
+}
+
+.skip-link:focus {
+  top: 6px;
+}
+
+/* Loading states */
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, transparent 37%, #f0f0f0 63%);
+  background-size: 400% 100%;
+  animation: skeleton-loading 1.4s ease infinite;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.hero-skeleton {
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--background-light) 0%, var(--primary-color) 100%);
+  opacity: 0.1;
+}
+
+/* CTA Button Styles */
+.cta-button {
+  transform: translateZ(0); /* Enable GPU acceleration */
+  will-change: transform, box-shadow;
+}
+
+.cta-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.cta-button:active {
+  transform: scale(0.95);
+  transition-duration: 50ms;
+}
+
+/* Ripple effect */
+.cta-ripple-effect {
+  position: absolute;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(0);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.cta-button:active .cta-ripple-effect {
+  animation: ripple 0.6s ease-out;
+}
+
+@keyframes ripple {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(4);
+    opacity: 0;
+  }
+}
