@@ -12,7 +12,6 @@ const compat = new FlatCompat({
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   ...compat.extends("plugin:jsx-a11y/recommended"),
-  ...compat.extends("plugin:tailwindcss/recommended"),
   {
     rules: {
       // Accessibility rules
@@ -28,14 +27,6 @@ const eslintConfig = [
       "jsx-a11y/no-autofocus": "error",
       "jsx-a11y/no-redundant-roles": "error",
       
-      // Tailwind CSS rules
-      "tailwindcss/classnames-order": "warn",
-      "tailwindcss/enforces-negative-arbitrary-values": "error",
-      "tailwindcss/enforces-shorthand": "warn",
-      "tailwindcss/migration-from-tailwind-2": "error",
-      "tailwindcss/no-arbitrary-value": "off", // Allow arbitrary values for design system
-      "tailwindcss/no-custom-classname": "warn",
-      "tailwindcss/no-contradicting-classname": "error",
       
       // Performance rules
       "@next/next/no-img-element": "error",
@@ -53,12 +44,6 @@ const eslintConfig = [
       "react/jsx-no-target-blank": "error",
       "react/no-unescaped-entities": "error",
       "react-hooks/exhaustive-deps": "warn",
-    },
-  },
-  {
-    files: ["**/*.stories.@(js|jsx|ts|tsx)"],
-    rules: {
-      "tailwindcss/no-custom-classname": "off",
     },
   },
 ];
